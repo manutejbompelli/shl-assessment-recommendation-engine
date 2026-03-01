@@ -1,0 +1,6 @@
+assessment_id,title,description,skills,level
+A1,Python Coding Test,Assessment for evaluating Python programming ability,"python,coding,algorithms",mid
+A2,SQL Data Test,Assessment to measure SQL and database querying skills,"sql,database,data",mid
+A3,Leadership Assessment,Evaluates leadership and managerial decision-making,"leadership,management",senior
+A4,Data Analyst Assessment,Tests analytical thinking and dashboard skills,"data analysis,sql,excel",mid
+A5,Communication Skills Test,Measures verbal and written communication ability,"communication,english,grammar",all
