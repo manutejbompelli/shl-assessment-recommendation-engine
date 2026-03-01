@@ -1,5 +1,14 @@
 # SHL Assessment Recommendation Engine
 
+
+🔗 **Live API:**  
+https://shl-assessment-recommendation-engine-02wl.onrender.com  
+
+📘 **API Documentation (Swagger):**  
+https://shl-assessment-recommendation-engine-02wl.onrender.com/docs
+
+---
+
 ## Problem Statement
 
 Given a job description, recommend the most relevant SHL assessments from the product catalogue.
